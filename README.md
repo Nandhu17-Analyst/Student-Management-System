@@ -1,7 +1,6 @@
 # Student-Management-System
-# Student Management System
 
-## Project Overview
+ Project Overview
 
 A Python-based Student Management System developed using Python,
 Tkinter, and MySQL to manage student and teacher information.
@@ -10,28 +9,27 @@ The system provides separate login and dashboard access for
 administrators, teachers, and students. The project also integrates
 with Power BI for reporting and data visualization.
 
-## Technologies Used
+ Technologies Used
+ Python
+Tkinter
+MySQL
+SQL
+Power BI
+**
+** Key Features**
 
-- Python
-- Tkinter
-- MySQL
-- SQL
-- Power BI
+Admin login
+Teacher login
+Student login
+Teacher registration
+Student registration
+MySQL database integration
+Role-based dashboard access
+Username and password validation
+Error and warning message handling
+Power BI dashboard for data analysis
 
-## Key Features
-
-- Admin login
-- Teacher login
-- Student login
-- Teacher registration
-- Student registration
-- MySQL database integration
-- Role-based dashboard access
-- Username and password validation
-- Error and warning message handling
-- Power BI dashboard for data analysis
-
-## System Workflow
+**System Workflow**
 
 User
 ↓
